@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nbw:home|Door43 (nbw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nbw|d43-nbw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nbw/archive/master.zip|d43-nbw.zip]]
+
+**Recent Changes**
+{{changes>ns = nbw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nbw|Ethnologue data]]
+
